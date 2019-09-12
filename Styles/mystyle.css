@@ -3,13 +3,21 @@
 }
 .list{
    border-style: solid;
+   border-width: 2px;
    color:white;
-   
+   margin-left: 20px;
+   padding: 20px;
+   width: 200px;
+}
+ul{
+    list-style-type: circle;
 }
 
 #title1{
     font-size: 80px;
     width: 750px;
     margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
     color:white;
 }
