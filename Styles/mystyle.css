@@ -1,7 +1,15 @@
+#mainpage{
+    background-image:url(background1.jpg );
+}
 .list{
-    background-color: aqua;
+   border-style: solid;
+   color:white;
+   
 }
 
 #title1{
     font-size: 80px;
+    width: 750px;
+    margin: auto;
+    color:white;
 }
